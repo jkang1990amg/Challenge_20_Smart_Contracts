@@ -16,7 +16,7 @@ Transaction 1: Send 1 ether as wei.
 
 Transaction 2: Send 10 ether as wei.
 
-![Send 10 ether as wei](.e/Images/send_10_ether_as_wei.png)
+![Send 10 ether as wei](./Images/send_10_ether_as_wei.png)
 
 Transaction 3: Send 5 ether.
 
