@@ -2,7 +2,7 @@
 
 Confirmed compile
 
-![Confirmed compile](./Starter_Code/Images/confirmed_compile_contract.png)
+![Confirmed compile](./Images/confirmed_compile_contract.png)
 
 Deployed contract
 
